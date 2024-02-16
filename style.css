@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  nav {
+    background-color: #f0e3e3;
+    padding: 10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: rgb(141, 42, 42);
+    padding: 10px;
+  }
+  
+  nav a:hover {
+    color: #180000;
+    padding: 10px;
+
+   
+  }
+  
+  img {
+    width: 300px; /* Adjust width as needed */
+    float: left; /* Or other positioning styles */
+    margin: 20px;
+  }
+
+  body {
+    background-image: url(abstract-digital-grid-black-background.jpg);
+    background-size: cover; /* Or other options like "contain" or "center" */
+  }
+
+  #projects{
+    color: #ff0000; /* Example color */
+  }
+
+  #main{
+    color: #f0e3e3;
+  }
+
+  #skills{
+    color: #f0e3e3;
+  }
+  #foot{
+    color: #f0e3e3;
+  }
